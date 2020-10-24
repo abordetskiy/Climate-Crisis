@@ -26,7 +26,7 @@ Ronald - https://www.ncdc.noaa.gov/stormevents/ftp.jsp
 Artem - https://waterdata.usgs.gov/nwis/sw
      - Water (Rivers, Lakes, MAYBE Coastlines)
 
-Jacob - 
+Jacob - https://www.epa.gov/climate-indicators/climate-change-indicators-sea-surface-temperature
       - Ocean Temperature
 
 
