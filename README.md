@@ -14,13 +14,17 @@
 #### Data Investigation
 
 Kyle - https://www.worldclim.org/data/monthlywth.html
+     - https://www.ncei.noaa.gov/data/global-summary-of-the-day/archive/
      - Temps and Precipitation
 
 Trey - https://www.esrl.noaa.gov/gmd/dv/data/index.php?category=Greenhouse%2BGases&frequency=Monthly%2BAverages&site=BRW&type=Flask
-    - Greenhouse Gasses
+     - Greenhouse Gasses
 
 Ronald - https://www.ncdc.noaa.gov/stormevents/ftp.jsp
-    - Storms and MAYBE Fatalities
+     - Storms and MAYBE Fatalities
 
 Artem - https://waterdata.usgs.gov/nwis/sw
      - Water (Rivers, Lakes, MAYBE Coastlines)
+
+Jacob - ftp://ftp.ncdc.noaa.gov/pub/data/nsrdb-solar/
+     - Solar Radiation
