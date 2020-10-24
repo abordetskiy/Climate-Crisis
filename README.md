@@ -26,5 +26,9 @@ Ronald - https://www.ncdc.noaa.gov/stormevents/ftp.jsp
 Artem - https://waterdata.usgs.gov/nwis/sw
      - Water (Rivers, Lakes, MAYBE Coastlines)
 
-Jacob - ftp://ftp.ncdc.noaa.gov/pub/data/nsrdb-solar/
+Jacob - 
+      - Ocean Temperature
+
+
+ftp://ftp.ncdc.noaa.gov/pub/data/nsrdb-solar/
      - Solar Radiation
