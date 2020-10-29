@@ -13,8 +13,7 @@
 
 #### Data Investigation
 
-Kyle - https://www.worldclim.org/data/monthlywth.html
-     - https://www.ncei.noaa.gov/data/global-summary-of-the-day/archive/
+Kyle - https://www.ncei.noaa.gov/data/global-summary-of-the-day/archive/
      - Temps and Precipitation
 
 Trey - https://www.esrl.noaa.gov/gmd/dv/data/index.php?category=Greenhouse%2BGases&frequency=Monthly%2BAverages&site=BRW&type=Flask
@@ -28,7 +27,3 @@ Artem - https://waterdata.usgs.gov/nwis/sw
 
 Jacob - https://www.epa.gov/climate-indicators/climate-change-indicators-sea-surface-temperature
       - Ocean Temperature
-
-
-ftp://ftp.ncdc.noaa.gov/pub/data/nsrdb-solar/
-     - Solar Radiation
