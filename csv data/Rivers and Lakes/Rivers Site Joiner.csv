@@ -1,23 +1,25 @@
-﻿agency_cd,site_no,site_loc,,,,,
-USGS,7227500,"Canadian Rv nr Amarillo, TX",,,,,
-USGS,7228000,"Canadian Rv nr Canadian, TX",,,,,
-USGS,7297910,"Pr Dog Twn Fk Red Rv nr Wayside, TX",,,,,
-USGS,8017410,"Sabine Rv nr Wills Point, TX",,,,,
-USGS,8030500,"Sabine Rv nr Ruliff, TX",,,,,
-USGS,8032000,"Neches Rv nr Neches, TX",,,,,
-USGS,8057410,"Trinity Rv bl Dallas, TX",,,,,
-USGS,8067000,"Trinity Rv at Liberty, TX",,,,,
-USGS,8070000,"E Fk San Jacinto Rv nr Cleveland, TX",,,,,
-USGS,8070200,"E Fk San Jacinto Rv nr New Caney, TX",,,,,
-USGS,8088000,"Brazos Rv nr South Bend, TX",,,,,
-USGS,8116650,"Brazos Rv nr Rosharon, TX",,,,,
-USGS,8117995,"Colorado Rv nr Gail, TX",,,,,
-USGS,8164000,"Lavaca Rv nr Edna, TX",,,,,
-USGS,8165300,"N Fk Guadalupe Rv nr Hunt, TX",,,,,
-USGS,8176500,"Guadalupe Rv at Victoria, TX",,,,,
-USGS,8178000,"San Antonio Rv at San Antonio, TX",,,,,
-USGS,8188500,"San Antonio Rv at Goliad, TX",,,,,
-USGS,8190000,"Nueces Rv at Laguna, TX",,,,,
-USGS,8211200,"Nueces Rv at Bluntzer, TX",,,,,
-USGS,8412500,"Pecos Rv nr Orla, TX",,,,,
-USGS,8446500,"Pecos Rv nr Girvin, TX",,,,,
+﻿agency_cd,site_no,site_loc
+USGS,7227500,"Canadian Rv nr Amarillo, TX"
+USGS,7228000,"Canadian Rv nr Canadian, TX"
+USGS,7297910,"Pr Dog Twn Fk Red Rv nr Wayside, TX"
+USGS,7308500,"Red Rv nr Burkburnett, TX"
+USGS,8017410,"Sabine Rv nr Wills Point, TX"
+USGS,8030500,"Sabine Rv nr Ruliff, TX"
+USGS,8032000,"Neches Rv nr Neches, TX"
+USGS,8041000,"Neches Rv at Evadale, TX"
+USGS,8057410,"Trinity Rv bl Dallas, TX"
+USGS,8067000,"Trinity Rv at Liberty, TX"
+USGS,8070000,"E Fk San Jacinto Rv nr Cleveland, TX"
+USGS,8070200,"E Fk San Jacinto Rv nr New Caney, TX"
+USGS,8088000,"Brazos Rv nr South Bend, TX"
+USGS,8116650,"Brazos Rv nr Rosharon, TX"
+USGS,8117995,"Colorado Rv nr Gail, TX"
+USGS,8162500,"Colorado Rv nr Bay City, TX"
+USGS,8165300,"N Fk Guadalupe Rv nr Hunt, TX"
+USGS,8176500,"Guadalupe Rv at Victoria, TX"
+USGS,8178000,"San Antonio Rv at San Antonio, TX"
+USGS,8188500,"San Antonio Rv at Goliad, TX"
+USGS,8190000,"Nueces Rv at Laguna, TX"
+USGS,8211200,"Nueces Rv at Bluntzer, TX"
+USGS,8412500,"Pecos Rv nr Orla, TX"
+USGS,8446500,"Pecos Rv nr Girvin, TX"
