@@ -27,4 +27,5 @@ Artem - https://waterdata.usgs.gov/nwis/sw
      - Water (Rivers, Lakes, MAYBE Coastlines)
 
 Jacob - https://www.epa.gov/climate-indicators/climate-change-indicators-sea-surface-temperature
+      - https://www.ncdc.noaa.gov/cag/global/time-series
       - Ocean Temperature
