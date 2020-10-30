@@ -13,8 +13,7 @@
 
 #### Data Investigation
 
-Kyle - https://www.worldclim.org/data/monthlywth.html
-     - https://www.ncei.noaa.gov/data/global-summary-of-the-day/archive/
+Kyle - API URL: https://www.ncei.noaa.gov/access/services/data/v1?dataset=global-summary-of-the-day&dataTypes=LATITUDE,LONGITUDE,TEMP,PRCP&stations=72793024233,99999924233,72295023174,99999923174,72606014764,99999914764,72211012842,99999912842,72258013960,72258113960,72258313960,72270023044,99999923044,72251012924,72640014839,99999914839,72537094847,99999914822,72658014922,99999914922,70026027502,91182022521,72572024127,72434013994,99999913994&startDate=1950-01-01&endDate=2020-10-01&format=csv
      - Temps and Precipitation
 
 Trey - https://www.esrl.noaa.gov/gmd/dv/data/index.php?category=Greenhouse%2BGases&frequency=Monthly%2BAverages&site=BRW&type=Flask
@@ -28,9 +27,3 @@ Artem - https://waterdata.usgs.gov/nwis/sw
 
 Jacob - https://www.epa.gov/climate-indicators/climate-change-indicators-sea-surface-temperature
       - Ocean Temperature
-
-
-ftp://ftp.ncdc.noaa.gov/pub/data/nsrdb-solar/
-     - Solar Radiation
-
-TEST BRANCH UPDATE
