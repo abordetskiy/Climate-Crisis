@@ -8,7 +8,7 @@
 5) Create HTML landing page with tags to house our charts
 6) Create Flask app to Pass data into HTML webpage
 7) Use JavaScript to finish the webpage and make it pretty
-8) Use D3.js update webpage
+8) Use D3.js update webpage elements
 
 
 #### Data Investigation
