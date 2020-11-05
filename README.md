@@ -4,7 +4,7 @@
 
 ## Please access the website via the GitHub pages link here: https://abordetskiy.github.io/Climate-Crisis/
 
-### The website is straightforward and allows the user to easily jump between charts and datasets. The thumnails on the home page and the sidebar on the left of all pages allows access to each individual dataset. Once in a dataset, the thumbnails below and the dropdown at the top right will allow that chart to show up in the main window at the top. Clicking on the main chart will take you to the corresponding full-resolution image of that chart. Please access the website via the GitHub pages link here: https://abordetskiy.github.io/Climate-Crisis/
+### The website is straightforward and allows the user to easily jump between charts and datasets. The thumnails on the home page and the sidebar on the left of all pages allows access to each individual dataset. Once in a dataset, the thumbnails below and the dropdown at the top right will allow that chart to show up in the main window at the top. Clicking on the main chart will take you to the corresponding full-resolution image of that chart.
 
 
 ### Below are breif explanations of each dataset's origins and how they became the graphs that you are viewing.
