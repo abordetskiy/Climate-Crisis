@@ -106,81 +106,40 @@
             <button type="button" class="btn btn-sm btn-outline-secondary">Export Dataset</button>
           </div>
           <button type="button" class="btn btn-sm btn-outline-secondary dropdown-toggle">
-            <span data-feather="thermometer"></span>
-            Select Station
+            <span data-feather="wind"></span>
+            Select Greenhouse Gas
           </button>
         </div>
       </div>
 
       <div class="row">
         <div class="col-md"><center></center>
-          <a id="mainLink" href=" ../assets/charts/temps/BWS_Fig.png">
-          <img id="mainChart" src=" ../assets/charts/temps/BWS_Fig.png"  alt="BARROW WEATHER SERVICE OFFICE AIRPORT, AK US" class="rounded float-right" style="width:100%">
+          <a id="mainLink" href=" ../assets/charts/greenhouse_gases/summarychart.png">
+          <img id="mainChart" src=" ../assets/charts/greenhouse_gases/stackedbarchart.png"  alt="BARROW WEATHER SERVICE" class="rounded float-right" style="width:100%">
           </a>
         </div>
       </div>
 
-      <h2>Individual Station Charts</h2>
+      <h2>Individual Greenhouse Gas Charts</h2>
       <div class="container-fluid">
         <div class="row">
-          <div class="col-md-4"><center>BARROW WEATHER SERVICE OFFICE AIRPORT, AK US</center>
-            <img src=" ../assets/charts/temps/BWS_Fig.png" alt="BARROW WEATHER SERVICE OFFICE AIRPORT, AK US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
+          <div class="col-md-4"><center>Summary Statistic Chart</center>
+            <img src=" ../assets/charts/greenhouse_gases/summarychart.png" alt="Summary Stat. Chart" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
           </div>
-          <div class="col-md-4"><center>CORPUS CHRISTI INTERNATIONAL AIRPORT, TX US</center>
-            <img src=" ../assets/charts/temps/Corpus_Christi_Fig.png" alt="CORPUS CHRISTI INTERNATIONAL AIRPORT, TX US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
+          <div class="col-md-4"><center>Stacked Bar Chart (show growth)</center>
+            <img src=" ../assets/charts/greenhouse_gases/stackedbarchart.png" alt="Stacked Bar Chart" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
           </div>
-          <div class="col-md-4"><center>DALLAS FAA AIRPORT, TX US</center>
-            <img src=" ../assets/charts/temps/Dallas_Fig.png" alt="DALLAS FAA AIRPORT, TX US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-4"><center>DETROIT METRO AIRPORT, MI US</center>
-            <img src=" ../assets/charts/temps/Detroit_Fig.png" alt="DETROIT METRO AIRPORT, MI US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-          </div>
-          <div class="col-md-4"><center>EL PASO INTERNATIONAL AIRPORT, TX US</center>
-            <img src=" ../assets/charts/temps/El_Paso_Fig.png" alt="EL PASO INTERNATIONAL AIRPORT, TX US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-          </div>
-          <div class="col-md-4"><center>HONOLULU INTERNATIONAL AIRPORT, HI US</center>
-            <img src=" ../assets/charts/temps/Honolulu_Fig.png" alt="HONOLULU INTERNATIONAL AIRPORT, HI US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
+          <div class="col-md-4"><center>Line Chart</center>
+            <img src=" ../assets/charts/greenhouse_gases/linechart.png" alt="Line Chart" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
           </div>
         </div>
 
           <div class="row">
-            <div class="col-md-4"><center>LOS ANGELES INTERNATIONAL AIRPORT, CA US</center>
-              <img src=" ../assets/charts/temps/Los_Angeles_Fig.png" alt="LOS ANGELES INTERNATIONAL AIRPORT, CA US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-            </div>
-            <div class="col-md-4"><center>MILWAUKEE MITCHELL INTERNATIONAL AIRPORT, WI US</center>
-              <img src=" ../assets/charts/temps/Milwaukee_Fig.png" alt="MILWAUKEE MITCHELL INTERNATIONAL AIRPORT, WI US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-            </div>
-            <div class="col-md-4"><center>MINNEAPOLIS ST PAUL INTERNATIONAL AIRPORT, MN US</center>
-              <img src=" ../assets/charts/temps/Minneapolis_Fig.png" alt="MINNEAPOLIS ST PAUL INTERNATIONAL AIRPORT, MN US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
+            <div class="col-md-4"><center>Python Bar Chart</center>
+              <img src=" ../assets/charts/greenhouse_gases/pythonbarchart.png" alt="Python Bar Chart" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
             </div>
           </div>
 
-          <div class="row">
-            <div class="col-md-4"><center>PORTLAND JETPORT, ME US</center>
-              <img src=" ../assets/charts/temps/Portland_Fig.png" alt="PORTLAND JETPORT, ME US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-            </div>
-            <div class="col-md-4"><center>SALT LAKE CITY INTERNATIONAL AIRPORT, UT US</center>
-              <img src=" ../assets/charts/temps/Salt_Lake_City_Fig.png" alt="SALT LAKE CITY INTERNATIONAL AIRPORT, UT US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-            </div>
-            <div class="col-md-4"><center>SEATTLE TACOMA INTERNATIONAL AIRPORT, WA US</center>
-              <img src=" ../assets/charts/temps/Seattle_Fig.png" alt="SEATTLE TACOMA INTERNATIONAL AIRPORT, WA US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-4"><center>ST LOUIS LAMBERT INTERNATIONAL AIRPORT, MO US</center>
-              <img src=" ../assets/charts/temps/St_Louis_Fig.png" alt="ST LOUIS LAMBERT INTERNATIONAL AIRPORT, MO US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-            </div>
-            <div class="col-md-4"><center>TAMPA INTERNATIONAL AIRPORT, FL US</center>
-              <img src=" ../assets/charts/temps/Tampa_Fig.png" alt="TAMPA INTERNATIONAL AIRPORT, FL US" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-            </div>
-            <div class="col-md-4"><center></center>
-              <img src="" alt="" onclick= "updateMain(src,alt)" class="rounded float-right" style="width:100%">
-            </div>
-          </div>
         </div>
       </div>
     </main>
