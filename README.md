@@ -25,7 +25,5 @@ Storm data was originally also pulled manually from a National Centers for Envir
      
 Greenhouse gas information was acquired manually from the Earth System Reserach Laboratory website. It was then manually manipulated in Python and Excel to produce graphs of the varying atmospheric gases. Interstingly enough, the site that recorded the data is the same as the site that recorded the temperature data in Alaska. The website where this data was pulled via search is: https://www.esrl.noaa.gov/gmd/dv/data/index.php?category=Greenhouse%2BGases&frequency=Monthly%2BAverages&site=BRW&type=Flask
 
-### Ocean Temperature
-
 
 ###### If running any of the scripts, please be patient as these are large datasets and take a long time to pull, calculate, and graph. Running Storms.ipynb will require SQL integration(pgAdmin) in order to store the data into a database. Many different scripting languages, libraries, and methods were used in the making of this project. Primary languages were Python and HTML, while Excel and JavaScript were used to supplement either initial analysis, or website capabilities. Most notably used in Javascript was the Slim Select library, which allows for simple and attractive select dropdown boxes. It also adds the functionality to search within the dropdown, which is useful to avoid scrolling on the pages that have a larger number of charts. More information on this library can be found by Brian Voeler on https://slimselectjs.com/.
